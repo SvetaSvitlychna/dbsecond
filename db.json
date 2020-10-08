@@ -15,7 +15,7 @@
     },
     {
        "id": 3,
-       "image": "assets/images/prod3M.jpg",
+       "image": "images/prod3M.jpg",
        "name": "Bicycle 28",
        "price": 300,
        "category": "bicycle"
